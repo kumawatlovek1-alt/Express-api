@@ -245,3 +245,6 @@ Possible technologies include:
 This document defines the API requirements for the main functionalities of a React.js To-Do List application.
 
 The current task focuses on API planning and does not include actual API implementation.
+
+## Author
+Disha kumawat
